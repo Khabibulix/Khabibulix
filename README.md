@@ -1,12 +1,15 @@
 - 👋 Hi, I’m @Khabibulix
 - 👀 I’m interested in ...
-  Front- and Back-End, Retrogaming and Knitting.
+ Cybersecurity and Knitting
 - 🌱 I’m currently learning ...
-Java
+Python
+Linux
 - 💞️ I’m looking to collaborate on ...
-Beginner projects in Java
+Beginner projects in Python
 - 📫 How to reach me ...
-On Facebook: https://www.facebook.com/donald.greagan/
+By mail: unitetempete@gmail.com
+Languagues spoken:
+French, English, A little German.
 
 <!---
 Khabibulix/Khabibulix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
