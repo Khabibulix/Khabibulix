@@ -4,8 +4,12 @@
  Cybersecurity and Knitting
 
 - 🌱 I’m currently learning ...
-Python, webscraping, basic syntax and maybe some Pygame next
-Linux and Kali Linux.
+Python, webscraping, basic syntax and maybe some Pygame next.
+
+- I understand ...
+HTML
+CSS
+Javascript
 
 - 💞️ I’m looking to collaborate on ...
 Beginner projects in Python
