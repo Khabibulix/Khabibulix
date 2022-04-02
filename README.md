@@ -18,6 +18,7 @@ Beginner projects in Python
 By mail: unitetempete@gmail.com
 On PicoCTF: https://play.picoctf.org/users/Khabibulin
 On CTFLearn: https://ctflearn.com/user/Khabibulin
+On my blog: https://leparcoursduguerriercyber.over-blog.com/
 
 Languagues spoken:
 French, English, A little German.
