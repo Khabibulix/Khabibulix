@@ -16,7 +16,6 @@ Beginner projects in Python
 
 - 📫 How to reach me ...
 By mail: unitetempete@gmail.com
-On HackTheBox: https://app.hackthebox.com/profile/overview
 On CTFLearn: https://ctflearn.com/user/Khabibulin
 On my blog: https://leparcoursduguerriercyber.over-blog.com/
 
