@@ -19,7 +19,8 @@ Beginner projects in cybersecurity
 By mail: unitetempete@gmail.com
 On CTFLearn: https://ctflearn.com/user/Khabibulin
 On my blog: https://leparcoursduguerriercyber.over-blog.com/
-I have an account in TryHackMe, my pseudo is Khabibulix
+On Codin Game: https://www.codingame.com/profile/26827b623da3faae93412641ebcb3aff3283224
+I have an account on TryHackMe, my pseudo is Khabibulix
 
 Languagues spoken:
 French, English, A little German.
