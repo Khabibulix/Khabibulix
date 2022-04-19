@@ -1,26 +1,37 @@
 - 👋 Hi, I’m @Khabibulix
 
+
 - 👀 I’m interested in ...
  Cybersecurity and Knitting
 
+
 - 🌱 I’m currently learning ...
 Python, webscraping, basic syntax and maybe some Pygame next.
+
 
 - I understand ...
 HTML
 CSS
 Javascript
 
+
 - 💞️ I’m looking to collaborate on ...
 Beginner projects in Python
 Beginner projects in cybersecurity
 
+
 - 📫 How to reach me ...
+
 By mail: unitetempete@gmail.com
+
 On CTFLearn: https://ctflearn.com/user/Khabibulin
+
 On my blog: https://leparcoursduguerriercyber.over-blog.com/
+
 On Codin Game: https://www.codingame.com/profile/26827b623da3faae93412641ebcb3aff3283224
+
 I have an account on TryHackMe, my pseudo is Khabibulix
+
 
 Languagues spoken:
 French, English, A little German.
