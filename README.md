@@ -30,7 +30,7 @@ On my blog: https://leparcoursduguerriercyber.over-blog.com/
 
 On Codin Game: https://www.codingame.com/profile/26827b623da3faae93412641ebcb3aff3283224
 
-I have an account on TryHackMe, my pseudo is Khabibulix
+On TryHackMe: https://tryhackme.com/p/Khabibulix
 
 
 Languagues spoken:
