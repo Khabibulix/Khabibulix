@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently learning ...
-Python, webscraping, basic syntax and maybe some Pygame next.
+Python, webscraping, hacking, Arduino
 
 
 - I understand ...
