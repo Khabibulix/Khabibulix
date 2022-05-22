@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Khabibulix
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Khabibulix.png" alt="TryHackMe">
 
 
 - 👀 I’m interested in ...
@@ -28,7 +29,6 @@ By mail: unitetempete@gmail.com
 On my blog: https://leparcoursduguerriercyber.over-blog.com/
 
 On TryHackMe: https://tryhackme.com/p/Khabibulix
-<img src="https://tryhackme-badges.s3.amazonaws.com/Khabibulix.png" alt="TryHackMe">
 
 Languagues spoken:
 French, English, A little German.
