@@ -30,6 +30,8 @@ On my blog: https://leparcoursduguerriercyber.over-blog.com/
 
 On TryHackMe: https://tryhackme.com/p/Khabibulix
 
+On CodinGame: https://www.codingame.com/profile/26827b623da3faae93412641ebcb3aff3283224
+
 Languagues spoken:
 French, English, A little German.
 
