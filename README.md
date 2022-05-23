@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Khabibulix
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Khabibulix.png" alt="TryHackMe">
-
 
 - 👀 I’m interested in ...
  Cybersecurity and Knitting
@@ -28,7 +26,7 @@ By mail: unitetempete@gmail.com
 
 On my blog: https://leparcoursduguerriercyber.over-blog.com/
 
-On TryHackMe: https://tryhackme.com/p/Khabibulix
+On TryHackMe: https://tryhackme.com/p/Khabibulix <img src="https://tryhackme-badges.s3.amazonaws.com/Khabibulix.png" alt="TryHackMe">
 
 On CodinGame: https://www.codingame.com/profile/26827b623da3faae93412641ebcb3aff3283224
 
