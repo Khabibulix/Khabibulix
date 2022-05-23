@@ -1,25 +1,37 @@
-- 👋 Hi, I’m @Khabibulix
+- 👋 Hi, I’m <u>@Khabibulix</u>
 
+<hr>
 
 - 👀 I’m interested in ...
 - Cybersecurity
 - Knitting
 
+<hr>
 
-- 🌱 I’m currently learning ...
+
+
+
+
+- 🌱 <u>I’m currently learning ... </u>
 - Python
 - Webscraping
 - Hardware hacking
 - Arduino
 
-- I understand ...
+<hr>
+
+
+- <u>I understand ...</u>
 - HTML
 - CSS
 - Javascript
 - Java
 
 
-- I want to learn ...
+<hr>
+
+
+- <u>I want to learn ...</u>
 - Go
 - Rust
 - Lua for Nmap Script Engine
@@ -30,26 +42,39 @@
 - MySQL
 - React JS
 
+<hr>
 
 
-- 💞️ I’m looking to collaborate on ...
+
+
+- 💞️<u> I’m looking to collaborate on ...</u>
 - Beginner projects in Python
 - Open source projects in Python
 - Beginner projects in cybersecurity
 
 
-- 📫 I'm currently reading:
+<hr>
+
+
+- 📫<u> I'm currently reading:</u>
 - Automate the boring stuff with Python
 - A+ Study Guide
 
 
-- How to reach me :
+<hr>
+
+
+- <u>How to reach me :</u>
 - On Discord: Kleniath#2447
 - On my blog: https://leparcoursduguerriercyber.over-blog.com/
 - On TryHackMe: https://tryhackme.com/p/Khabibulix
 - On CodinGame: https://www.codingame.com/profile/26827b623da3faae93412641ebcb3aff3283224
 
-- Languagues spoken:
+
+<hr>
+
+
+-<u> Languagues spoken: </u>
 - French
 - English
 - A little German.
