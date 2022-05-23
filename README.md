@@ -21,9 +21,14 @@ Open source projects in Python
 Beginner projects in cybersecurity
 
 
-- 📫 How to reach me ...
+- 📫 I'm currently reading:
+Automate the boring stuff with Python
+A+ Study Guide
 
-By mail: unitetempete@gmail.com
+
+How to reach me :
+
+On Discord: Kleniath#2447
 
 On my blog: https://leparcoursduguerriercyber.over-blog.com/
 
