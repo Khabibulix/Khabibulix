@@ -6,17 +6,18 @@
 
 
 - 🌱 I’m currently learning ...
-Python, webscraping, hacking, Arduino
+Python, Webscraping, Hardware hacking, Arduino
 
 
 - I understand ...
 HTML
 CSS
 Javascript
-
+Java
 
 - 💞️ I’m looking to collaborate on ...
 Beginner projects in Python
+Open source projects in Python
 Beginner projects in cybersecurity
 
 
