@@ -32,15 +32,15 @@
 
 
 - <u>I want to learn ...</u>
-- Go
+- Go for practicing cloud
 - Rust
 - Lua for Nmap Script Engine
 - Ruby for Metasploit exploits
-- Assembly for Atari Developping
-- C
-- PHP
+- Assembly for Atari Developping and reverse engineering
+- C 
+- PHP for back-end analysis and scripts creating
 - MySQL
-- React JS
+- React JS because i like Javascript
 
 <hr>
 
