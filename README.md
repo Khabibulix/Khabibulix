@@ -1,8 +1,8 @@
-- 👋 Hi, I’m <u>@Khabibulix</u>
+<h1> Hi, I’m <u>@Khabibulix</u> </h1>
 
 <hr>
 
-- 👀 I’m interested in ...
+<h2>I’m interested in ...</h2>
 - Cybersecurity
 - Knitting
 
@@ -12,7 +12,7 @@
 
 
 
-- 🌱 <u>I’m currently learning ... </u>
+<h2><u>I’m currently learning ... </u></h2>
 - Python
 - Webscraping
 - Hardware hacking
@@ -21,7 +21,7 @@
 <hr>
 
 
-- <u>I understand ...</u>
+<h2><u>I understand ...</u></h2>
 - HTML
 - CSS
 - Javascript
@@ -31,7 +31,7 @@
 <hr>
 
 
-- <u>I want to learn ...</u>
+<h2><u>I want to learn ...</u></h2>
 - Go for practicing cloud
 - Rust
 - Lua for Nmap Script Engine
@@ -47,7 +47,7 @@
 
 
 
-- 💞️<u> I’m looking to collaborate on ...</u>
+<h2><u> I’m looking to collaborate on ...</u></h2>
 - Beginner projects in Python
 - Open source projects in Python
 - Beginner projects in cybersecurity
@@ -56,7 +56,7 @@
 <hr>
 
 
-- 📫<u> I'm currently reading:</u>
+<h2><u> I'm currently reading:</u></h2>
 - Automate the boring stuff with Python
 - A+ Study Guide
 
@@ -64,7 +64,7 @@
 <hr>
 
 
-- <u>How to reach me :</u>
+<h2><u>How to reach me :</u></h2>
 - On Discord: Kleniath#2447
 - On my blog: https://leparcoursduguerriercyber.over-blog.com/
 - On TryHackMe: https://tryhackme.com/p/Khabibulix
@@ -74,7 +74,7 @@
 <hr>
 
 
--<u> Languagues spoken: </u>
+<h2><u> Languagues spoken: </u></h2>
 - French
 - English
 - A little German.
