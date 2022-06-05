@@ -18,7 +18,6 @@
 - Python
 - Webscraping
 - Hardware hacking
-- Arduino
 
 <hr>
 
@@ -37,14 +36,13 @@
 <h2><u>I want to learn ...</u></h2>
 
 - Go for practicing cloud
-- Rust
 - Lua for Nmap Script Engine
 - Ruby for Metasploit exploits
 - Assembly for Atari Developping and reverse engineering
 - C 
 - PHP for back-end analysis and scripts creating
 - MySQL
-- React JS because i like Javascript
+- PERL because i like it
 
 <hr>
 
