@@ -61,8 +61,7 @@
 
 <h2><u> I'm currently reading:</u></h2>
 
-- Automate the boring stuff with Python
-- A+ Study Guide
+- 
 
 
 <hr>
