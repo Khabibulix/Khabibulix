@@ -35,25 +35,26 @@
 
 <h2><u>I want to learn ...</u></h2>
 
-- Go for practicing cloud
-- Lua for Nmap Script Engine
-- Ruby for Metasploit exploits
-- Assembly for Atari Developping and reverse engineering
-- C 
-- PHP for back-end analysis and scripts creating
-- MySQL
-- PERL because i like it
+- <b>Go</b> for practicing cloud
+- <b>Lua</b> for Nmap Script Engine
+- <b>Ruby</b> for Metasploit exploits
+- <b>Assembly</b> for Atari Developping and reverse engineering
+- <b>C</b> because it's the boss
+- <b>PHP</b> for back-end analysis and scripts creating
+- <b>MySQL</b>
+- <b>PERL</b> because i like it
+- Maybe Python <b>Selenium</b>
 
 <hr>
 
 
 
 
-<h2><u> I’m looking to collaborate on ...</u></h2>
+<h2><u> I will collaborate on ...</u></h2>
 
-- Beginner projects in Python
-- Open source projects in Python
-- Beginner projects in cybersecurity
+- Python Flask
+- Python Django
+- Python Requests
 
 
 <hr>
@@ -61,7 +62,8 @@
 
 <h2><u> I'm currently reading:</u></h2>
 
-- 
+- BRIAN KERNIGHAN, Understanding the digital world
+- Comptia A+ Study Guide
 
 
 <hr>
