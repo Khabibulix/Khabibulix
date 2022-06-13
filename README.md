@@ -35,14 +35,11 @@
 
 <h2><u>I want to learn ...</u></h2>
 
-- <b>Go</b> for practicing cloud
-- <b>Lua</b> for Nmap Script Engine
 - <b>Ruby</b> for Metasploit exploits
 - <b>Assembly</b> for Atari Developping and reverse engineering
 - <b>C</b> because it's the boss
 - <b>PHP</b> for back-end analysis and scripts creating
 - <b>MySQL</b>
-- <b>PERL</b> because i like it
 - Maybe Python <b>Selenium</b>
 
 <hr>
