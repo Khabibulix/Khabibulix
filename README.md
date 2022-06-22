@@ -16,7 +16,6 @@
 <h2><u>I’m currently learning ... </u></h2>
 
 - Python
-- Hardware hacking
 
 <hr>
 
@@ -58,7 +57,6 @@
 
 - BRIAN KERNIGHAN, Understanding the digital world
 - Comptia A+ Study Guide
-- JUSTIN SEITZ, Black Hat Python
 
 
 <hr>
