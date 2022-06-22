@@ -16,7 +16,6 @@
 <h2><u>I’m currently learning ... </u></h2>
 
 - Python
-- Webscraping
 - Hardware hacking
 
 <hr>
@@ -40,7 +39,6 @@
 - <b>C</b> because it's the boss
 - <b>PHP</b> for back-end analysis and scripts creating
 - <b>MySQL</b>
-- Maybe Python <b>Selenium</b>
 
 <hr>
 
@@ -60,6 +58,7 @@
 
 - BRIAN KERNIGHAN, Understanding the digital world
 - Comptia A+ Study Guide
+- JUSTIN SEITZ, Black Hat Python
 
 
 <hr>
