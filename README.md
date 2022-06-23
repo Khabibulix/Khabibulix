@@ -48,7 +48,7 @@
 <h2><u> I'm currently reading:</u></h2>
 
 - Comptia A+ Study Guide
-- SCOTT MUELLER, Upgrading and repairing PC
+- CHRISTOPHER NEGUS, Linux Bible
 
 <hr>
 
