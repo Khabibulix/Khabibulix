@@ -9,10 +9,6 @@
 
 <hr>
 
-
-
-
-
 <h2><u>I’m currently learning ... </u></h2>
 
 - Python
@@ -42,11 +38,8 @@
 <hr>
 
 
-
-
 <h2><u> I will collaborate on ...</u></h2>
 
-- Python Flask
 - Python Requests
 
 
@@ -55,6 +48,7 @@
 <h2><u> I'm currently reading:</u></h2>
 
 - Comptia A+ Study Guide
+- SCOTT MUELLER, Upgrading and repairing PC
 
 <hr>
 
