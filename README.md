@@ -52,12 +52,14 @@
 
 <hr>
 
-
 <h2><u> I'm currently reading:</u></h2>
 
-- BRIAN KERNIGHAN, Understanding the digital world
 - Comptia A+ Study Guide
 
+<hr>
+
+<h2><u> I have already read:</u></h2>
+- BRIAN KERNIGHAN, Understanding the digital world
 
 <hr>
 
