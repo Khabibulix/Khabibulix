@@ -49,6 +49,7 @@
 
 - Comptia A+ Study Guide
 - CHRISTOPHER NEGUS, Linux Bible
+- CHRISTIAN MAYER, Python One-Liners
 
 <hr>
 
