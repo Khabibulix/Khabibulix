@@ -11,7 +11,7 @@
 
 <h2><u>I’m currently learning ... </u></h2>
 
-- Python
+- Web-Dev with PHP and MySQL
 
 <hr>
 
@@ -22,6 +22,7 @@
 - CSS
 - Javascript
 - Java
+- Python
 
 
 <hr>
