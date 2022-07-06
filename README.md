@@ -49,7 +49,6 @@
 
 <h2><u> I'm currently reading:</u></h2>
 <pre>
---->    CHRISTOPHER NEGUS, Linux Bible
 --->    CHRISTIAN MAYER, Python One-Liners
 </pre>
 
