@@ -49,7 +49,7 @@
 
 <h2><u> I'm currently reading:</u></h2>
 <pre>
---->    CHRISTIAN MAYER, Python One-Liners
+--->    FAHAD ALI SARWAR, Python in ethical hacking
 </pre>
 
 <hr>
