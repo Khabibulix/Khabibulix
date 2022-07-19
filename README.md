@@ -47,20 +47,6 @@
 </pre>
 <hr>
 
-<h2><u> I'm currently reading:</u></h2>
-<pre>
---->    FAHAD ALI SARWAR, Python in ethical hacking
-</pre>
-
-<hr>
-
-<h2><u> I have already read:</u></h2>
-<pre>
---->    BRIAN KERNIGHAN, Understanding the digital world
---->    Comptia A+ Study Guide
-</pre>
-<hr>
-
 
 <h2><u>How to reach me :</u></h2>
 <pre>
