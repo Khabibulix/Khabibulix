@@ -18,7 +18,7 @@
 
 <h2><u>I’m currently learning ... </u></h2>
 <pre>
---->       Web-Dev with PHP and MySQL
+--->       Web-Dev with PHP and MySQL (but first i reiterate my knowings in HTML/CSS/JS)
 </pre>
 
 <hr>
