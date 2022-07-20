@@ -1,12 +1,4 @@
-<pre>
-              .                          __     __                   
-|__| |      | '  |\/|    |__/ |__|  /\  |__) | |__) |  | |    | |\ | 
-|  | | .    |    |  |    |  \ |  | /~~\ |__) | |__) \__/ |___ | | \| 
-       '                                                             
-
-</pre>
-
-<hr>
+Hey, Khab here. A little bit about myself:
 
 <h2>I’m interested in ...</h2>
 <pre>
