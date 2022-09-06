@@ -2,7 +2,7 @@ Hey, Khab here. A little bit about myself:
 
 <h2><u>I’m currently learning ... </u></h2>
 <pre>
---->      Tailwind CSS
+--->      Flask Python
 </pre>
 
 <hr>
@@ -11,7 +11,7 @@ Hey, Khab here. A little bit about myself:
 <h2><u>I understand ...</u></h2>
 <pre>
 --->       HTML
---->       CSS
+--->       CSS/Tailwind CSS
 --->       JS
 --->       Python
 </pre>
@@ -23,7 +23,6 @@ Hey, Khab here. A little bit about myself:
 <pre>
 --->       On Discord: Kleniath#2447
 --->       On my blog: https://leparcoursduguerriercyber.over-blog.com/
---->       On TryHackMe: https://tryhackme.com/p/Khabibulix
 --->       On CodinGame: https://www.codingame.com/profile/26827b623da3faae93412641ebcb3aff3283224
 </pre>
 
