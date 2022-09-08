@@ -1,4 +1,4 @@
-Hey, Khab here. A little bit about myself:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khabibulix&show_icons=true&theme=radical)
 
 <h2><u>I’m currently learning ... </u></h2>
 <pre>
@@ -9,12 +9,9 @@ Hey, Khab here. A little bit about myself:
 
 
 <h2><u>I understand ...</u></h2>
-<pre>
---->       HTML
---->       CSS/Tailwind CSS
---->       JS
---->       Python
-</pre>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khabibulix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <hr>
