@@ -1,4 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khabibulix&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khabibulix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2><u>I’m currently learning ... </u></h2>
 <pre>
@@ -9,8 +11,10 @@
 
 
 <h2><u>I understand ...</u></h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khabibulix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<pre>
+--->      Python
+--->      HTML/CSS/JS
+</pre>
 
 
 
