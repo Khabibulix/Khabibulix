@@ -2,9 +2,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khabibulix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h2><u>I’m currently learning ... </u></h2>
+<h2><u>I’m currently learning and making projects in... </u></h2>
 <pre>
---->      Flask Python
+--->      Flask Python (intermediate/advanced)
+--->      C (basic)
 </pre>
 
 <hr>
