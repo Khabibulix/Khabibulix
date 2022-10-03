@@ -5,7 +5,6 @@
 <h2><u>I’m currently learning and making projects in... </u></h2>
 <pre>
 --->      Flask Python (intermediate/advanced)
---->      C (basic)
 </pre>
 
 <hr>
