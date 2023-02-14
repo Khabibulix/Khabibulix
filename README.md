@@ -4,7 +4,7 @@
 
 <h2><u>I’m currently learning and making projects in... </u></h2>
 <pre>
---->      Flask Python (intermediate/advanced)
+--->      Java (beginner/intermediate)
 </pre>
 
 <hr>
@@ -12,7 +12,7 @@
 
 <h2><u>I understand ...</u></h2>
 <pre>
---->      Python
+--->      Python/FLask
 --->      HTML/CSS/JS
 </pre>
 
@@ -23,7 +23,7 @@
 <h2><u>How to reach me :</u></h2>
 <pre>
 --->       On Discord: Kleniath#2447
---->       On my blog: https://leparcoursduguerriercyber.over-blog.com/
+--->       On my blog: https://leparcoursduguerriercyber.over-blog.com/ (i'm not active anymore)
 --->       On CodinGame: https://www.codingame.com/profile/26827b623da3faae93412641ebcb3aff3283224
 </pre>
 
