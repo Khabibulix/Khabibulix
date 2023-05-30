@@ -2,9 +2,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khabibulix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h2><u>I’m currently learning and making projects in... </u></h2>
+<h2><u>I’m currently making projects in... </u></h2>
 <pre>
---->      Java (beginner/intermediate)
+--->      Python (beginner/intermediate)
 </pre>
 
 <hr>
@@ -12,7 +12,6 @@
 
 <h2><u>I understand ...</u></h2>
 <pre>
---->      Python/FLask
 --->      HTML/CSS/JS
 </pre>
 
