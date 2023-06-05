@@ -1,10 +1,16 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khabibulix&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khabibulix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h2><u>I’m currently making projects in... </u></h2>
 <pre>
 --->      Python (beginner/intermediate)
+</pre>
+
+<h2><u>I’m currently reading... </u></h2>
+<pre>
+--->      Python Testing with Pytest
+</pre>
+
+<h2><u>I will learn next... </u></h2>
+<pre>
+--->      User interfaces
 </pre>
 
 <hr>
