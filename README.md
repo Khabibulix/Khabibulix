@@ -5,12 +5,12 @@
 
 <h2><u>I’m currently reading... </u></h2>
 <pre>
---->      Python Testing with Pytest
+--->      Designing Interfaces
 </pre>
 
 <h2><u>I will learn next... </u></h2>
 <pre>
---->      User interfaces
+--->      Tkinter GUI
 </pre>
 
 <hr>
