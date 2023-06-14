@@ -11,6 +11,7 @@
 <h2><u>I will learn next... </u></h2>
 <pre>
 --->      Tkinter GUI
+--->      Git
 </pre>
 
 <hr>
