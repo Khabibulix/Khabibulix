@@ -5,7 +5,7 @@
 
 <h2><u>I’m currently reading... </u></h2>
 <pre>
---->      Designing Interfaces
+--->      The pragmatic programmer
 </pre>
 
 <h2><u>I will learn next... </u></h2>
