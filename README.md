@@ -1,6 +1,6 @@
-<h2><u>I’m currently making projects in... </u></h2>
+<h2><u>I’m currently making projects with... </u></h2>
 <pre>
---->      Python (beginner/intermediate)
+--->      Python/Django (beginner/intermediate)
 </pre>
 
 <h2><u>I’m currently reading... </u></h2>
