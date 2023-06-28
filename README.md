@@ -26,9 +26,9 @@
 
 <hr>
 
-<h2><u>How to reach me :</u></h2>
+<h2><u>Where to reach me :</u></h2>
 <pre>
---->       On Discord: Kleniath#2447
+--->       By mail: unitetempete@gmail.com
 --->       On my blog: https://leparcoursduguerriercyber.over-blog.com/ (i'm not active anymore)
 --->       On CodinGame: https://www.codingame.com/profile/26827b623da3faae93412641ebcb3aff3283224
 </pre>
