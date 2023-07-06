@@ -5,7 +5,7 @@
 
 <h2><u>I’m currently reading... </u></h2>
 <pre>
---->      The pragmatic programmer
+--->      Effective Python
 </pre>
 
 <h2><u>I will learn next... </u></h2>
