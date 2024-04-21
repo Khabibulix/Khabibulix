@@ -1,24 +1,13 @@
-<h2><u>I’m currently making projects with... </u></h2>
+<h2><u>I’m currently on... </u></h2>
 <pre>
---->      Python/Django (beginner/intermediate)
+--->      The Odin Project
 </pre>
-
-<h2><u>I’m currently reading... </u></h2>
-<pre>
---->      Effective Python
-</pre>
-
-<h2><u>I will learn next... </u></h2>
-<pre>
---->      Git
-</pre>
-
-<hr>
 
 
 <h2><u>I understand ...</u></h2>
 <pre>
 --->      HTML/CSS/JS
+--->      Python
 </pre>
 
 
