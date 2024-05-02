@@ -1,6 +1,6 @@
 <h2><u>I’m currently on... </u></h2>
 <pre>
---->      The Odin Project
+--->      The Odin Project Ruby Path
 </pre>
 
 
