@@ -1,6 +1,6 @@
-<h2><u>I’m currently on... </u></h2>
+<h2><u>I’m currently building... </u></h2>
 <pre>
---->      The Odin Project Ruby Path
+--->      Python CLI projects
 </pre>
 
 
