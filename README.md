@@ -18,7 +18,7 @@
 <h2><u>Where to reach me :</u></h2>
 <pre>
 --->       By mail: unitetempete@gmail.com
---->       On my blog: https://leparcoursduguerriercyber.over-blog.com/ (i'm not active anymore)
+--->       On my blog: https://leparcoursduguerriercyber.over-blog.com/ 
 --->       On CodinGame: https://www.codingame.com/profile/26827b623da3faae93412641ebcb3aff3283224
 </pre>
 
