@@ -1,6 +1,6 @@
 <h2><u>I’m currently building... </u></h2>
 <pre>
---->      Python CLI projects
+--->      Python Webscraper CLI project
 </pre>
 
 
