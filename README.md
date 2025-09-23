@@ -1,28 +1,14 @@
-<h2><u>I’m currently building... </u></h2>
-<pre>
---->      Python Webscraper CLI project
-</pre>
+## I’m currently building...
 
+. Python Webscraper CLI project
+. Powershell Automatisation Scripts
 
-<h2><u>I understand ...</u></h2>
-<pre>
---->      HTML/CSS/JS
---->      Python
---->      Ruby
-</pre>
+## I understand
 
-
-
-<hr>
-
-<h2><u>Where to reach me :</u></h2>
-<pre>
---->       By mail: unitetempete@gmail.com
---->       On my blog: https://leparcoursduguerriercyber.over-blog.com/ 
---->       On CodinGame: https://www.codingame.com/profile/26827b623da3faae93412641ebcb3aff3283224
-</pre>
-
-<hr>
+. HTML/CSS/JS
+. Python
+. Ruby
+. Powershell
 
 <!---
 Khabibulix/Khabibulix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
