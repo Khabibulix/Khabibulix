@@ -1,13 +1,13 @@
 ## I’m currently building...
 
-. Python Webscraper CLI project
-. Powershell Automatisation Scripts
+- Python Webscraper CLI project
+- Powershell Automatisation Scripts
 
 ## I understand
 
-. HTML/CSS/JS
-. Python
-. Ruby
+- HTML/CSS/JS
+- Python
+- Ruby
 . Powershell
 
 <!---
