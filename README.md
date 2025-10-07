@@ -1,14 +1,12 @@
 ## I’m currently building...
 
-- Python Webscraper CLI project
-- Powershell Automatisation Scripts
+- Python Process Visualizer
 
 ## I understand
 
 - HTML/CSS/JS
 - Python
 - Ruby
-. Powershell
 
 <!---
 Khabibulix/Khabibulix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
