@@ -1,5 +1,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khabibulix)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub Metrics](https://github.com/Khabibulix/Mono-Python/blob/master/github-metrics.svg)
+
+
 ## I’m currently building...
 
 - Python Process Visualizer
