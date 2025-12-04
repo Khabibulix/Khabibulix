@@ -1,17 +1,23 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khabibulix)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub Metrics](https://github.com/Khabibulix/Mono-Python/blob/master/github-metrics.svg)
 
 
 ## I’m currently building...
 
-- Python Process Visualizer
+- Purple Team C Projects
 
 ## I understand
 
 - HTML/CSS/JS
 - Python
 - Ruby
+
+## Fav language
+
+- Python
+
+## Learning
+
+- C
 
 <!---
 Khabibulix/Khabibulix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
