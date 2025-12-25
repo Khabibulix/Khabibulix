@@ -3,7 +3,7 @@
 
 ## I’m currently building...
 
-- Purple Team C Projects
+- C low-level tools
 
 ## I understand
 
