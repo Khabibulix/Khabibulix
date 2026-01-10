@@ -3,8 +3,8 @@
 
 ## I’m currently building...
 
-- C low-level tools
-
+- C low-level toolkit
+- Assembly sandboxing
 ## I understand
 
 - HTML/CSS/JS
@@ -18,6 +18,7 @@
 ## Learning
 
 - C
+- Assembly
 
 <!---
 Khabibulix/Khabibulix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
